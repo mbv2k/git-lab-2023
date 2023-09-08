@@ -91,7 +91,7 @@ Answer 11:
 Everything up-to-date
 
 Answer 12: 
-Still just the title, nothing really updated.
+Yes extra lines added were reflected online and locally.
 
 Answer 13:
 .  ..  Labs  git-lab-2-2023
